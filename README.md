@@ -8,15 +8,17 @@ A calculadora é responsiva e se adapta a diferentes tamanhos de tela, como desk
 
 **Cálculo de Juros Compostos:**
 
-Utilize a fórmula clássica de juros compostos: **M**=**P**×(**1**+i)t
+Utilize a fórmula clássica de juros compostos: **M** = **P** X (**1**+i)t
 
-Onde: **M:** Montante final.
+Onde: 
 
-**P:** Capital inicial (valor principal).
+- **M:** Montante final.
 
-**i:** Taxa de juros (decimal).
+- **P:** Capital inicial (valor principal).
 
-**t:** Tempo (em meses).
+- **i:** Taxa de juros (decimal).
+
+- **t:** Tempo (em meses).
 
 **Validação de Entrada:**
 
