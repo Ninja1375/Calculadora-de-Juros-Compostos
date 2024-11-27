@@ -8,7 +8,7 @@ A calculadora é responsiva e se adapta a diferentes tamanhos de tela, como desk
 
 **Cálculo de Juros Compostos:**
 
-Utilize a fórmula clássica de juros compostos: M=P×(1+eu)paraM = P \vezes (1 + i)^tM=P×( 1+eu )para Onde:M : Montante final.P : Capital inicial (valor principal).i : Taxa de juros (decimal).t : Tempo (em meses).
+Utilize a fórmula clássica de juros compostos: **M**=**P×(1+eu)paraM = P \vezes (1 + i)^tM=P×( 1+eu )para Onde:M : Montante final.P : Capital inicial (valor principal).i : Taxa de juros (decimal).t : Tempo (em meses).
 
 **Validação de Entrada:**
 
@@ -24,11 +24,11 @@ Informações claras ao usuário sobre a necessidade de preencher os campos corr
 
 ## Fluxo de Uso
 
-Entrada de Dados :
+**Entrada de Dados:**
 
 O usuário insere o valor inicial (capital), a taxa de juros mensal (em %) e o período (em meses).
 
-Validação :
+**Validação:**
 
 Caso algum campo esteja vazio ou contenha valores inválidos, um alerta é solicitado pedindo correções.
 
@@ -40,7 +40,11 @@ Ao clicar em Calcular, o JavaScript processa os dados e calcula o valor final e 
 
 **Este projeto é ideal para:**
 
-Estudantes : Aprendendo conceitos de programação, validação de entradas e manipulação de DOM.Investidores : Realizar cálculos rápidos e simples de juros compostos.Educadores : Usar como ferramenta para ensinar sobre finanças e programação básica.
+**Estudantes:** Aprendendo conceitos de programação, validação de entradas e manipulação de DOM.
+
+**Investidores:** Realizar cálculos rápidos e simples de juros compostos.
+
+**Educadores:** Usar como ferramenta para ensinar sobre finanças e programação básica.
 
 ## Tecnologias Utilizadas
 
