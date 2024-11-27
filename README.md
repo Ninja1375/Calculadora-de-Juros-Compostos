@@ -1,12 +1,12 @@
-Este projeto consiste em uma calculadora de juros composta criada utilizando apenas HTML, CSS e JavaScript, com foco em funcionalidade, design moderno e responsividade. A calculadora permite que os usuários insiram valores básicos como capital inicial, taxa de juros mensais e tempo em meses para calcular o valor final e os juros acumulados de acordo com a fórmula de juros compostos.
+Este projeto consiste em uma **calculadora de juros compostos** criada utilizando apenas HTML, CSS e JavaScript, com foco em funcionalidade, design moderno e responsividade. A calculadora permite que os usuários insiram valores básicos como capital inicial, taxa de juros mensais e tempo em meses para calcular o valor final e os juros acumulados de acordo com a fórmula de juros compostos.
 
-Funcionalidades do Projeto
+# Funcionalidades
 
-Interface Responsiva e Intuitiva :
+**Interface Responsiva e Intuitiva:**
 
-A calculadora é responsiva e se adapta a diferentes tamanhos de tela, como desktops, tablets e smartphones.Design moderno e elegante com gradientes e sombras sutis para melhorar a experiência do usuário.
+A calculadora é responsiva e se adapta a diferentes tamanhos de tela, como desktops, tablets e smartphones. Design moderno e elegante com gradientes e sombras sutis para melhorar a experiência do usuário.
 
-Cálculo de Juros Compostos :
+**Cálculo de Juros Compostos:**
 
 Utilize a fórmula clássica de juros compostos: M=P×(1+eu)paraM = P \vezes (1 + i)^tM=P×( 1+eu )para Onde:M : Montante final.P : Capital inicial (valor principal).i : Taxa de juros (decimal).t : Tempo (em meses).
 
