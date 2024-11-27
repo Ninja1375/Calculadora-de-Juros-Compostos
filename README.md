@@ -10,17 +10,19 @@ A calculadora é responsiva e se adapta a diferentes tamanhos de tela, como desk
 
 Utilize a fórmula clássica de juros compostos: M=P×(1+eu)paraM = P \vezes (1 + i)^tM=P×( 1+eu )para Onde:M : Montante final.P : Capital inicial (valor principal).i : Taxa de juros (decimal).t : Tempo (em meses).
 
-Validação de Entrada :
+**Validação de Entrada:**
 
-Garanta que os campos obrigatórios sejam preenchidos corretamente.Exibe um alerta caso os campos estejam vazios, com valores inválidos ou negativos.
+Garante que os campos obrigatórios sejam preenchidos corretamente. Exibe um alerta caso os campos estejam vazios, com valores inválidos ou negativos.
 
-Exibição Condicional de Resultados :
+**Exibição Condicional de Resultados:**
 
-A divisão de resultados permanece oculta até que o cálculo seja realizado.Após o projeto, exibe o montante final e os juros acumulados em uma interface estilizada.
+A divisão de resultados permanece oculta até que o cálculo seja realizado. Logo após exibe o montante final e os juros acumulados em uma interface estilizada.
 
-Mensagens de erro :
+**Mensagens de erro:**
 
-Informações claras ao usuário sobre a necessidade de preencher os campos corretamente, aumentando a confiabilidade do aplicativo.Fluxo de Uso
+Informações claras ao usuário sobre a necessidade de preencher os campos corretamente, aumentando a confiabilidade do aplicativo.
+
+Fluxo de Uso
 
 Entrada de Dados :
 
