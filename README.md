@@ -32,20 +32,34 @@ Validação :
 
 Caso algum campo esteja vazio ou contenha valores inválidos, um alerta é solicitado pedindo correções.
 
-## Cálculo e Exposição :
+**Cálculo e Exposição:**
 
-Ao clicar em Calcular , o JavaScript processa os dados e calcula o valor final e os juros acumulados.A div de resultados é exibida com os valores calculados.Público-Alvo
+Ao clicar em Calcular, o JavaScript processa os dados e calcula o valor final e os juros acumulados. A div de resultados é exibida com os valores calculados.
 
-Este projeto é ideal para:
+## Público-Alvo
+
+**Este projeto é ideal para:**
 
 Estudantes : Aprendendo conceitos de programação, validação de entradas e manipulação de DOM.Investidores : Realizar cálculos rápidos e simples de juros compostos.Educadores : Usar como ferramenta para ensinar sobre finanças e programação básica.
 
 ## Tecnologias Utilizadas
 
-HTML:
+**HTML:**
 
-Estrutura semântica do aplicativo.CSS :Estilização moderna com gradientes, sombras e design responsivo.JavaScript :Validação de entradas, cálculos matemáticos e manipulação do DOM.
+Estrutura semântica do aplicativo.
+
+**CSS:**
+
+Estilização moderna com gradientes, sombras e design responsivo.
+
+**JavaScript:**
+
+Validação de entradas, cálculos matemáticos e manipulação do DOM.
 
 ## Possíveis Melhorias
 
-Gráficos para visualizar o crescimento do montante ao longo do tempo.Implementar opções de cálculo diário, anual ou com taxas diferentes.Permitir exportação dos resultados para um arquivo PDF ou CSV.
+Gráficos para visualizar o crescimento do montante ao longo do tempo.
+
+Implementar opções de cálculo diário, anual ou com taxas diferentes.
+
+Permitir exportação dos resultados para um arquivo PDF ou CSV.
