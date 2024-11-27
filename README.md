@@ -1,3 +1,7 @@
+**Veja o projeto ao vivo:**
+
+**[Calculadora de Juros Compostos](https://ninja1375.github.io/Calculadora-de-Juros-Compostos/)**
+
 Este projeto consiste em uma **calculadora de juros compostos** criada utilizando apenas HTML, CSS e JavaScript, com foco em funcionalidade, design moderno e responsividade. A calculadora permite que os usuários insiram valores básicos como capital inicial, taxa de juros mensais e tempo em meses para calcular o valor final e os juros acumulados de acordo com a fórmula de juros compostos.
 
 # Funcionalidades
