@@ -22,7 +22,7 @@ A divisão de resultados permanece oculta até que o cálculo seja realizado. Lo
 
 Informações claras ao usuário sobre a necessidade de preencher os campos corretamente, aumentando a confiabilidade do aplicativo.
 
-Fluxo de Uso
+## Fluxo de Uso
 
 Entrada de Dados :
 
@@ -32,10 +32,20 @@ Validação :
 
 Caso algum campo esteja vazio ou contenha valores inválidos, um alerta é solicitado pedindo correções.
 
-Cálculo e Exposição :
+## Cálculo e Exposição :
 
 Ao clicar em Calcular , o JavaScript processa os dados e calcula o valor final e os juros acumulados.A div de resultados é exibida com os valores calculados.Público-Alvo
 
 Este projeto é ideal para:
 
-Estudantes : Aprendendo conceitos de programação, validação de entradas e manipulação de DOM.Investidores : Realizar cálculos rápidos e simples de juros compostos.Educadores : Usar como ferramenta para ensinar sobre finanças e programação básica.Tecnologias UtilizadasHTML :Estrutura semântica do aplicativo.CSS :Estilização moderna com gradientes, sombras e design responsivo.JavaScript :Validação de entradas, cálculos matemáticos e manipulação do DOM.Possíveis MelhoriasGráficos para visualizar o crescimento do montante ao longo do tempo.Implementar opções de cálculo diário, anual ou com taxas diferentes.Permitir exportação dos resultados para um arquivo PDF ou CSV.
+Estudantes : Aprendendo conceitos de programação, validação de entradas e manipulação de DOM.Investidores : Realizar cálculos rápidos e simples de juros compostos.Educadores : Usar como ferramenta para ensinar sobre finanças e programação básica.
+
+## Tecnologias Utilizadas
+
+HTML:
+
+Estrutura semântica do aplicativo.CSS :Estilização moderna com gradientes, sombras e design responsivo.JavaScript :Validação de entradas, cálculos matemáticos e manipulação do DOM.
+
+## Possíveis Melhorias
+
+Gráficos para visualizar o crescimento do montante ao longo do tempo.Implementar opções de cálculo diário, anual ou com taxas diferentes.Permitir exportação dos resultados para um arquivo PDF ou CSV.
